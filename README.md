@@ -1,7 +1,9 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for Firefox
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
 
 ## Installation
-> Add the method to install the theme.
+1. [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/blossomtheme/)
+2. Install
+3. Enjoy!
